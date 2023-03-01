@@ -16,6 +16,9 @@
 ### 主な利用シーン
 ドラックストアやネットで薬を買いに行く前にアプリで調べて参考にする。（置いているところが多いメジャーな薬をまず登録しておく）
 
+## 実装機能リスト
+https://docs.google.com/spreadsheets/d/1SHYJMbHd0lFpEGVPoFYDmC6M2Z9QB3uyNU3mHl51fHs/edit?usp=sharing
+
 ## 設計書
 <...>
 
